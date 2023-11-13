@@ -1,0 +1,7 @@
+martillo
+cabeza
+mani
+crema
+maiz
+zanahoria
+berenjena
